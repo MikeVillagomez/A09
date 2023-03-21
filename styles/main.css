@@ -21,6 +21,11 @@ body {
 }
 
 
+:root {
+    --global-color-1: #800000;
+}
+
+
 
 
 /* the styles for the header */
